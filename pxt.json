@@ -7,7 +7,8 @@
         "microphone": "*",
         "Mini Car": "github:keyestudio2019/MiniCar#85ada5185bcc42f7b65e1f8e931799e2ae3ccd22",
         "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6",
-        "cutebot": "github:elecfreaks/pxt-cutebot#v6.2.4"
+        "cutebot": "github:elecfreaks/pxt-cutebot#v6.2.4",
+        "BitBot": "github:4tronix/bitbot#v2.1.13"
     },
     "files": [
         "main.blocks",
